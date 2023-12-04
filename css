@@ -1,1 +1,33 @@
 
+
+/* Add your custom styles here */
+
+/* Example: Change the background color of the navbar */
+.navbar {
+  background-color: #333;
+}
+
+/* Example: Change the font color of the navbar brand */
+.navbar-brand {
+  color: #fff;
+}
+
+/* Example: Change the background color of the mobile dropdown menu */
+.navbar-nav.visible-xs {
+  background-color: #333;
+}
+
+/* Example: Change the font color of the mobile dropdown menu items */
+.navbar-nav.visible-xs li a {
+  color: #fff;
+}
+
+/* Example: Change the background color of the section */
+.section {
+  background-color: #ddd;
+}
+
+/* Example: Change the font color of the page heading */
+.page-heading {
+  color: #333;
+}
